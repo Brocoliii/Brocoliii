@@ -25,10 +25,6 @@ I am a **Game Developer** currently studying at the **Faculty of Information Tec
 <a href="mailto:puree.suwann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
-### **🧶 Beyond Coding**
-* I’m a regular participant in **BU Game On** events.
-* In my free time, I enjoy crocheting and occasionally drawing.
 
 
