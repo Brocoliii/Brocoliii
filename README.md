@@ -3,11 +3,24 @@ I am a **Game Developer** currently studying at the **Faculty of Information Tec
 
 ---
 
-### **🕹️ What I'm Working On**
-* **IJEAB:** A 2D side-scrolling boss-fight game focused on challenging movement and dodging mechanics.
-* **Hysteria:** A 2D top-down stealth horror prototype.
-* **And many other ongoing projects...**
+### **🕹️ Featured Projects**
 
+#### **IJeab** | *2D Side-Scrolling Action Survival*
+* **Technical Highlight:** พัฒนาระบบ Dialogue โดยประยุกต์ใช้ **Linked List** และใช้ **Coroutine** ควบคุมระบบ Enemy Wave
+* **Camera System:** ใช้ **Cinemachine** เพื่อให้การเคลื่อนกล้องมีความ Smooth และ Dynamic (Inspired by Hollow Knight)
+* **Core Gameplay:** ออกแบบและเขียนโปรแกรมระบบการเคลื่อนที่และการหลบหลีก (Dodging Mechanics)
+
+#### **ExCoded** | *2D Survival Climbing*
+* **System Design:** ออกแบบและพัฒนาระบบ **Stamina System** และระบบ **Skill Bar** สำหรับ Player Progression
+* **Role:** Lead Programmer รับผิดชอบด้าน Core Mechanics และ Game Stage UI ทั้งหมด
+* **Development:** พัฒนาภายใต้หลักการ MVP เพื่อเน้นฟีเจอร์หลักที่สร้างความสนุกให้กับผู้เล่น
+
+#### **Hysteria** | *Top-down Stealth Horror Prototype*
+* **Concept:** โปรเจกต์แนว Horror/Puzzle ที่สื่อถึงความกลัว (Phobias) ผ่านการไขปริศนาและการสำรวจ
+* **Level Design:** ออกแบบสภาพแวดล้อมเพื่อสร้างบรรยากาศที่กดดัน และจัดการระบบ Object Interaction
+* **Sound Management:** ดูแลภาพรวมของประสบการณ์เสียงทั้งหมดภายในเกม เพื่อสร้างบรรยากาศที่สมจริง
+
+* **...And many other ongoing projects!**
 ---
 
 ### **🛠️ Tech Stack & Tools**
