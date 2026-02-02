@@ -6,19 +6,19 @@ I am a **Game Developer** currently studying at the **Faculty of Information Tec
 ### **🕹️ Featured Projects**
 
 #### **IJeab** | *2D Side-Scrolling Action Survival*
-* **Technical Highlight:** พัฒนาระบบ Dialogue โดยประยุกต์ใช้ **Linked List** และใช้ **Coroutine** ควบคุมระบบ Enemy Wave
-* **Camera System:** ใช้ **Cinemachine** เพื่อให้การเคลื่อนกล้องมีความ Smooth และ Dynamic (Inspired by Hollow Knight)
-* **Core Gameplay:** ออกแบบและเขียนโปรแกรมระบบการเคลื่อนที่และการหลบหลีก (Dodging Mechanics)
+* **Technical Highlight:** Developed a dynamic Dialogue System using a **Linked List** and implemented **Coroutines** for efficient Enemy Wave management.
+* **Camera System:** Integrated **Cinemachine** to create smooth and dynamic camera tracking, inspired by the feel of *Hollow Knight*.
+* **Core Gameplay:** Focused on designing and programming challenging player movement and dodging mechanics.
 
 #### **ExCoded** | *2D Survival Climbing*
-* **System Design:** ออกแบบและพัฒนาระบบ **Stamina System** และระบบ **Skill Bar** สำหรับ Player Progression
-* **Role:** Lead Programmer รับผิดชอบด้าน Core Mechanics และ Game Stage UI ทั้งหมด
-* **Development:** พัฒนาภายใต้หลักการ MVP เพื่อเน้นฟีเจอร์หลักที่สร้างความสนุกให้กับผู้เล่น
+* **System Design:** Engineered a complex **Stamina System** and a dynamic **Skill Bar** to handle player progression and resource management.
+* **Role:** Lead Programmer, responsible for core mechanics, stamina logic, and the overall Game Stage UI.
+* **Development:** Built following **MVP (Minimum Viable Product)** principles to ensure a polished core gameplay experience.
 
 #### **Hysteria** | *Top-down Stealth Horror Prototype*
-* **Concept:** โปรเจกต์แนว Horror/Puzzle ที่สื่อถึงความกลัว (Phobias) ผ่านการไขปริศนาและการสำรวจ
-* **Level Design:** ออกแบบสภาพแวดล้อมเพื่อสร้างบรรยากาศที่กดดัน และจัดการระบบ Object Interaction
-* **Sound Management:** ดูแลภาพรวมของประสบการณ์เสียงทั้งหมดภายในเกม เพื่อสร้างบรรยากาศที่สมจริง
+* **Concept:** A horror/puzzle project exploring various **phobias** through environmental storytelling and exploration.
+* **Level Design:** Focused on atmospheric world-building and implementing complex **Object Interactions** for puzzle-solving.
+* **Sound Management:** Oversaw the entire audio experience to create a realistic and immersive sense of dread.
 
 * **...And many other ongoing projects!**
 ---
