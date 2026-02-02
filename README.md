@@ -11,14 +11,14 @@ I am a **Game Developer** currently studying at the **Faculty of Information Tec
 * **Core Gameplay:** Focused on designing and programming challenging player movement and dodging mechanics.
 
 #### **ExCoded** | *2D Survival Climbing*
+* **Role:** **Lead Programmer**, responsible for core mechanics, stamina logic, and the overall Game Stage UI.
 * **System Design:** Engineered a complex **Stamina System** and a dynamic **Skill Bar** to handle player progression and resource management.
-* **Role:** Lead Programmer, responsible for core mechanics, stamina logic, and the overall Game Stage UI.
 * **Development:** Built following **MVP (Minimum Viable Product)** principles to ensure a polished core gameplay experience.
 
-#### **Hysteria** | *Top-down Stealth Horror Prototype*
-* **Concept:** A horror/puzzle project exploring various **phobias** through environmental storytelling and exploration.
-* **Level Design:** Focused on atmospheric world-building and implementing complex **Object Interactions** for puzzle-solving.
-* **Sound Management:** Oversaw the entire audio experience to create a realistic and immersive sense of dread.
+#### **Hero’s are Delicious** | *2D Slime Adventure*
+* **Physics Implementation:** Applied the principles of **Projectile Physics** to create the core movement mechanics for the slime character.
+* **Concept:** A physics-based adventure game developed for the *Gi 204 Physic For Game* course.
+* **Visuals:** Features a round, slime-based character with unique trajectory-based movement.
 
 * **...And many other ongoing projects!**
 ---
