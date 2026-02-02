@@ -44,12 +44,12 @@ layer movement and dodging mechanics.
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="30" /> Connect with Me
+
 <p align="left">
-  <a href="mailto:puree.suwann@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=puree.suwann@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
 
 
 
